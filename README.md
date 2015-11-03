@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/TelescopeJS/Telescope.svg)](https://travis-ci.org/TelescopeJS/Telescope)
+[![Build Status](https://travis-ci.org/Wen777/Telescope.svg)](https://travis-ci.org/Wen777/Telescope/)
 [![Code Climate](https://codeclimate.com/github/TelescopeJS/Telescope/badges/gpa.svg)](https://codeclimate.com/github/TelescopeJS/Telescope)
 
 Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
